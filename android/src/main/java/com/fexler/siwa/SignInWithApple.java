@@ -1,4 +1,4 @@
-package com.getcapacitor.community.applesignin;
+package com.fexler.siwa;
 
 import com.getcapacitor.JSObject;
 import com.getcapacitor.NativePlugin;
